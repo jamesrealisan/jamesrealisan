@@ -22,3 +22,8 @@ I am a passionate IT student at Xavier University College, driven by a curiosity
 - 🔭 I’m currently working on my final API project.
 
 Thanks for stopping by!
+
+
+Fun Fact! 
+
+"i love coding"
